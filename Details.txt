@@ -1,0 +1,33 @@
+Topics:  
+
+  Online Playground:
+    Codesandbox
+  handling state in parent and child
+    passing state/dynamic( data which will change ) data to component - Deep Dive
+      eg: Adding movies to Wishlist
+      // Callback is used communicate
+    
+    Passing data from child to parent component
+      eg: 
+      // Callback is used pass data to parent
+  
+  Props drilling:
+    passing data from grandparent to grand child as props through parents
+
+    Avoid drilling props from parents to chidrens, keep it at most 2 levels
+  
+  Codesandbox Codes for above concepts: https://codesandbox.io/s/angry-rain-q856t5
+
+  Reusable Components
+    1. Children:
+      Using the component with opening and closing tag with a **child**
+      instead of self closing tag
+    2. Direct Component/Html Prop:
+      Passing Component or html as a value to the props of the component
+
+Next Session:
+  Components Life Cycle:
+    Life Cycle
+
+Task:
+  Revise and come for next Session
